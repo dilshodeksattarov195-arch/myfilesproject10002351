@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfelete",
+        "uuid": 21504597,
+        "checksum": "qh26jr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
